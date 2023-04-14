@@ -1,0 +1,4 @@
+The proccess of filling the maze could'nt be completed because 
+	there was an aspirant to be goalState / initState that was occupied
+
+
